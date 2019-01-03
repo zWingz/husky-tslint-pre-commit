@@ -1,6 +1,5 @@
-# Husky-tslint-pre-commit
+# husky-tslint-pre-commit
 
-![](./static/example.jpg)
 
 ## Usage
 
@@ -10,7 +9,16 @@ or
 
 `npm install husky-tslint-pre-commit`
 
-## Desc
+## Description
 
 - use [husky](https://github.com/typicode/husky) to hook `pre-commit`
 - use [tslint](https://github.com/palantir/tslint) to lint code in `pre-commit`
+
+### Succeed
+![](./static/succeed.png)
+
+### Error
+![](./static/error.jpg)
+
+### Warning
+![](./static/warn.jpg)
