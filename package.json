@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "zhengzwing@gmail.com",
   "license": "MIT",
+  "homepage": "https://zwing.site/husky-tslint-pre-commit/#/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zWingz/husky-tslint-pre-commit"
+  },
   "scripts": {
     "install": "node ./index.js"
   },
