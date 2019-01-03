@@ -6,6 +6,12 @@
   "author": "zhengzwing@gmail.com",
   "license": "MIT",
   "homepage": "https://github.com/zWingz/husky-tslint-pre-commit#husky-tslint-pre-commit",
+  "keywords": [
+    "husky",
+    "pre-commit",
+    "git-hooks",
+    "tslint"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/zWingz/husky-tslint-pre-commit"
