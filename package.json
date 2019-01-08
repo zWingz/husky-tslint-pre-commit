@@ -1,6 +1,6 @@
 {
   "name": "husky-tslint-pre-commit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tslint in pre-commit by husky",
   "main": "index.js",
   "author": "zhengzwing@gmail.com",

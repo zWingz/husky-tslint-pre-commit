@@ -8,7 +8,7 @@ const diffFiles = run('git diff --cached --name-only --diff-filter=ACM', {
 })
   .toString()
   .split('\n')
-  .filter(each => each && /tsx{0,1}$/.test(each))
+  .filter(each => each && /\.tsx{0,1}$/.test(each))
 if (!diffFiles.length) {
   log(chalk.bgGreen('\n\t COMMIT SUCCEEDED \n'))
   return
